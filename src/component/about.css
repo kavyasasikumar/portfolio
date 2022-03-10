@@ -1,0 +1,49 @@
+.logo{
+    color: red;
+}
+.clip-path{
+    position: relative;
+   
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding:5% 15%;
+}
+.curves{
+    background-color: rgb(102, 224, 187);
+    height: 400px;
+    width: 400px;
+   border-radius: 69% 31% 26% 28% / 35% 30% 25% 49% ;
+}
+.clip{
+    height: 400px;
+    width: 400px;
+    border-radius: 400px;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    box-shadow: 0 0 20px black;
+}
+p{
+    font-size: 1.3rem;
+    text-align: justify;
+    line-height: 1.7rem;
+   
+}
+.about_h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background: linear-gradient(rgba(94, 187, 245, 0.5),rgba(94, 187, 245, 0.5)) ,url(./images/image2.jpg);
+   
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+ 
+}

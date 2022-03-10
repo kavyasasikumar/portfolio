@@ -1,0 +1,83 @@
+#com{
+    margin-top: -5vh;
+    height: 90vh;
+}
+.custom-shape-divider-bottom-1643418906 {
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1643418906 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height: 190px;
+}
+
+.custom-shape-divider-bottom-1643418906 .shape-fill {
+    fill:rgba(101, 192, 248, 0.5) ;
+}.custom-shape-divider-bottom-1643419005 {
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1643419005 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height: 160px;
+}
+
+.custom-shape-divider-bottom-1643419005 .shape-fill {
+    fill: #FFFFFF;
+}
+.custom-shape-divider-bottom-16434190051 {
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-16434190051 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height:160px;
+}
+
+.custom-shape-divider-bottom-16434190051 .shape-fill {
+    fill: rgba(134, 199, 240, 0.5);
+}
+.custom-shape-divider-bottom-1643419114 {
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1643419114 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height: 135px;
+}
+
+.custom-shape-divider-bottom-1643419114 .shape-fill {
+    fill: #FFFFFF;
+}

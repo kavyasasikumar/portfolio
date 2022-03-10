@@ -1,0 +1,59 @@
+/* body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+*{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    line-height: 30px;
+    background-color: rosybrown;
+    box-shadow: inset 0 0 2000px yellowgreen;
+}
+.container button{
+    width: 100px;
+    height: 50px;
+}
+.container p{
+    font-size: 20px;
+}
+
+/* note styling */
+
+.note{
+    
+    box-sizing: border-box;
+  display: flex;
+  align-items: center;
+    padding: 0 0 0 10px;
+    background-color: rgb(238, 139, 25);
+    color: cornsilk;
+    height: 5vh;
+}
+.msg{
+    margin-left: 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgb(66, 66, 66);
+    width: fit-content;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,100 @@
+.logo_name {
+    font-variant: small-caps;
+    color:darkblue;
+    font-size:2.5rem;
+    margin-left:15px;
+  }
+  .contact_h1 h1{
+    color: #fff;
+    font-size: 2rem;
+    text-shadow: 0 0 10px black;
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+  }
+  .contact_h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    text-transform: uppercase;
+   
+   
+    background:linear-gradient(rgba(43, 113, 156, 0.5),rgba(19, 89, 133, 0.5)),url(https://media.istockphoto.com/photos/white-chat-bubbles-imprinted-with-contact-us-symbols-on-blue-picture-id925857310?k=6&m=925857310&s=170667a&w=0&h=0Xhz8X9jzLqXRvkN_8WtQ74uPrxerVAucb8x7A9-mKA=);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .icons{
+    color:darkblue;
+    font-size:4vh ;
+    margin-top:15px;
+    
+  }
+  .fa{
+    background-color:skyblue;
+    padding:10px;
+    width:3vw;
+    border-radius: 100px;
+    text-align: center;
+   margin-left:10px; }
+   
+   .quicklinks h1{
+   color:darkblue;
+   font-size:2rem;
+   margin-bottom:15px;
+    }
+    .link{
+      margin-left:5px;
+    }
+   .mainlink{
+     display:flex ;
+     margin-left:50px;
+     margin-top:5px;
+   }
+    .links{
+     display:flex;
+     flex-direction:column;
+        color:darkblue;
+        font-size:1.2rem;
+   } 
+  
+   .touch h1{
+     color:darkblue;
+     font-size:2rem ;
+     margin-left:10px;
+     margin-bottom:15px;
+   }
+  .touch p{
+  font-size:1.2rem;
+  color:darkblue;
+  margin-left:10px;
+  line-height:40px;
+  }
+  .contact{
+    padding:40px 100px;
+    display:flex;
+    gap:31%;
+    
+    
+  }
+  .quicklinks{
+    margin-right:100px;
+  
+  }
+  .logo_contact{
+    margin:0 50px;
+    }
+  .footer{
+    background-color:#1480be;
+    height:8vh;
+    font-size:1.2rem;
+    font-weight:500;
+    text-align:center;
+    color: white;
+    }
+    .footer p{
+     padding:28px;
+    }
+  
